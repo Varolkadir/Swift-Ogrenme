@@ -70,7 +70,8 @@ Feel free to clone the repository, explore the code, and start experimenting in 
 ## 🚀 Getting Started
 To get a local copy up and running, use the following command:
 
-```bash
+\`\`\`bash
 git clone https://github.com/Varolkadir/Swift-Ogrenme.git
+\`\`\`
 
 Happy coding!
