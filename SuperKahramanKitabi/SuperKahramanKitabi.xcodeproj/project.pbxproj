@@ -1,0 +1,569 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DEA20E262EABAE2C0044051F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DEA20E072EABAE2A0044051F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DEA20E0E2EABAE2A0044051F;
+			remoteInfo = SuperKahramanKitabi;
+		};
+		DEA20E302EABAE2C0044051F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DEA20E072EABAE2A0044051F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DEA20E0E2EABAE2A0044051F;
+			remoteInfo = SuperKahramanKitabi;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DEA20E0F2EABAE2B0044051F /* SuperKahramanKitabi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperKahramanKitabi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEA20E252EABAE2C0044051F /* SuperKahramanKitabiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperKahramanKitabiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEA20E2F2EABAE2C0044051F /* SuperKahramanKitabiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperKahramanKitabiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DEA20E372EABAE2C0044051F /* Exceptions for "SuperKahramanKitabi" folder in "SuperKahramanKitabi" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				Untitled.swift,
+			);
+			target = DEA20E0E2EABAE2A0044051F /* SuperKahramanKitabi */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DEA20E112EABAE2B0044051F /* SuperKahramanKitabi */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				DEA20E372EABAE2C0044051F /* Exceptions for "SuperKahramanKitabi" folder in "SuperKahramanKitabi" target */,
+			);
+			path = SuperKahramanKitabi;
+			sourceTree = "<group>";
+		};
+		DEA20E282EABAE2C0044051F /* SuperKahramanKitabiTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SuperKahramanKitabiTests;
+			sourceTree = "<group>";
+		};
+		DEA20E322EABAE2C0044051F /* SuperKahramanKitabiUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SuperKahramanKitabiUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DEA20E0C2EABAE2A0044051F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E222EABAE2C0044051F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E2C2EABAE2C0044051F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DEA20E062EABAE2A0044051F = {
+			isa = PBXGroup;
+			children = (
+				DEA20E112EABAE2B0044051F /* SuperKahramanKitabi */,
+				DEA20E282EABAE2C0044051F /* SuperKahramanKitabiTests */,
+				DEA20E322EABAE2C0044051F /* SuperKahramanKitabiUITests */,
+				DEA20E102EABAE2B0044051F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DEA20E102EABAE2B0044051F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DEA20E0F2EABAE2B0044051F /* SuperKahramanKitabi.app */,
+				DEA20E252EABAE2C0044051F /* SuperKahramanKitabiTests.xctest */,
+				DEA20E2F2EABAE2C0044051F /* SuperKahramanKitabiUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DEA20E0E2EABAE2A0044051F /* SuperKahramanKitabi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEA20E382EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabi" */;
+			buildPhases = (
+				DEA20E0B2EABAE2A0044051F /* Sources */,
+				DEA20E0C2EABAE2A0044051F /* Frameworks */,
+				DEA20E0D2EABAE2A0044051F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DEA20E112EABAE2B0044051F /* SuperKahramanKitabi */,
+			);
+			name = SuperKahramanKitabi;
+			packageProductDependencies = (
+			);
+			productName = SuperKahramanKitabi;
+			productReference = DEA20E0F2EABAE2B0044051F /* SuperKahramanKitabi.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DEA20E242EABAE2C0044051F /* SuperKahramanKitabiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEA20E3D2EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabiTests" */;
+			buildPhases = (
+				DEA20E212EABAE2C0044051F /* Sources */,
+				DEA20E222EABAE2C0044051F /* Frameworks */,
+				DEA20E232EABAE2C0044051F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DEA20E272EABAE2C0044051F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DEA20E282EABAE2C0044051F /* SuperKahramanKitabiTests */,
+			);
+			name = SuperKahramanKitabiTests;
+			packageProductDependencies = (
+			);
+			productName = SuperKahramanKitabiTests;
+			productReference = DEA20E252EABAE2C0044051F /* SuperKahramanKitabiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DEA20E2E2EABAE2C0044051F /* SuperKahramanKitabiUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEA20E402EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabiUITests" */;
+			buildPhases = (
+				DEA20E2B2EABAE2C0044051F /* Sources */,
+				DEA20E2C2EABAE2C0044051F /* Frameworks */,
+				DEA20E2D2EABAE2C0044051F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DEA20E312EABAE2C0044051F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DEA20E322EABAE2C0044051F /* SuperKahramanKitabiUITests */,
+			);
+			name = SuperKahramanKitabiUITests;
+			packageProductDependencies = (
+			);
+			productName = SuperKahramanKitabiUITests;
+			productReference = DEA20E2F2EABAE2C0044051F /* SuperKahramanKitabiUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DEA20E072EABAE2A0044051F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					DEA20E0E2EABAE2A0044051F = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					DEA20E242EABAE2C0044051F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = DEA20E0E2EABAE2A0044051F;
+					};
+					DEA20E2E2EABAE2C0044051F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = DEA20E0E2EABAE2A0044051F;
+					};
+				};
+			};
+			buildConfigurationList = DEA20E0A2EABAE2A0044051F /* Build configuration list for PBXProject "SuperKahramanKitabi" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DEA20E062EABAE2A0044051F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DEA20E102EABAE2B0044051F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DEA20E0E2EABAE2A0044051F /* SuperKahramanKitabi */,
+				DEA20E242EABAE2C0044051F /* SuperKahramanKitabiTests */,
+				DEA20E2E2EABAE2C0044051F /* SuperKahramanKitabiUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DEA20E0D2EABAE2A0044051F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E232EABAE2C0044051F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E2D2EABAE2C0044051F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DEA20E0B2EABAE2A0044051F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E212EABAE2C0044051F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEA20E2B2EABAE2C0044051F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DEA20E272EABAE2C0044051F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DEA20E0E2EABAE2A0044051F /* SuperKahramanKitabi */;
+			targetProxy = DEA20E262EABAE2C0044051F /* PBXContainerItemProxy */;
+		};
+		DEA20E312EABAE2C0044051F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DEA20E0E2EABAE2A0044051F /* SuperKahramanKitabi */;
+			targetProxy = DEA20E302EABAE2C0044051F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DEA20E392EABAE2C0044051F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SuperKahramanKitabi/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DEA20E3A2EABAE2C0044051F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SuperKahramanKitabi/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DEA20E3B2EABAE2C0044051F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DEA20E3C2EABAE2C0044051F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DEA20E3E2EABAE2C0044051F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperKahramanKitabi.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperKahramanKitabi";
+			};
+			name = Debug;
+		};
+		DEA20E3F2EABAE2C0044051F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperKahramanKitabi.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperKahramanKitabi";
+			};
+			name = Release;
+		};
+		DEA20E412EABAE2C0044051F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SuperKahramanKitabi;
+			};
+			name = Debug;
+		};
+		DEA20E422EABAE2C0044051F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.varol.SuperKahramanKitabiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SuperKahramanKitabi;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DEA20E0A2EABAE2A0044051F /* Build configuration list for PBXProject "SuperKahramanKitabi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEA20E3B2EABAE2C0044051F /* Debug */,
+				DEA20E3C2EABAE2C0044051F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEA20E382EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEA20E392EABAE2C0044051F /* Debug */,
+				DEA20E3A2EABAE2C0044051F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEA20E3D2EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEA20E3E2EABAE2C0044051F /* Debug */,
+				DEA20E3F2EABAE2C0044051F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEA20E402EABAE2C0044051F /* Build configuration list for PBXNativeTarget "SuperKahramanKitabiUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEA20E412EABAE2C0044051F /* Debug */,
+				DEA20E422EABAE2C0044051F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DEA20E072EABAE2A0044051F /* Project object */;
+}
