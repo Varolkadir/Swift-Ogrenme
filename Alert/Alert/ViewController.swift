@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Alert
 //
-//  Created by Fhewn on 15.10.2025.
+//  Created by Varol on 15.10.2025.
 //
 
 import UIKit
